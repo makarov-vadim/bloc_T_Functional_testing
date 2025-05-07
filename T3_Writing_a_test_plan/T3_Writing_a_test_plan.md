@@ -117,11 +117,11 @@ start - индекс с которого необходимо вычислять
 
 Также, в качестве негативных тестов, необходимо проверить использование кириллицы и спецсимволов.
 
-[Реализация тест-кейса 2](https://github.com/makarov-vadim/bloc_T_Functional_testing/blob/09203d1cd3bf281e85706aad1e8de8717192565a/T1_Writing_test-cases/Test-case_T1_2.md)
+[Реализация тест-кейса 2](https://github.com/makarov-vadim/bloc_T_Functional_testing/blob/for_review/T1_Writing_test-cases/Test-case_T1_2.md)
 
 
 ### Тест-кейс 3. Тестирование параметра productId
 Согласно условию задачи, в случае если продукт не найден возвращается ответ с кодом 404. Необходимо проверить запрос
 параметром productId несуществующего продукта.
 
-[Реализация тест-кейса 3](https://github.com/makarov-vadim/bloc_T_Functional_testing/blob/09203d1cd3bf281e85706aad1e8de8717192565a/T1_Writing_test-cases/Test-case_T1_3.md)
+[Реализация тест-кейса 3](https://github.com/makarov-vadim/bloc_T_Functional_testing/blob/for_review/T1_Writing_test-cases/Test-case_T1_3.md)
